@@ -4,7 +4,7 @@ import './Hello.css'
 export default class Hello extends Component {
   render() {
     return (
-      <div>
+      <div className="f1 tc">
         <h1>Hellow</h1>
         <p>World</p>
       </div>
